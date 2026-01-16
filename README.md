@@ -26,3 +26,11 @@ npm install
 In the project root directory, create a file named .env and add:
 WEATHER_API_KEY=your_openweathermap_api_key_here
 You can get a free API key from https://openweathermap.org
+
+## ▶️ Running the Application
+Start the server with: node server.js
+
+You should see: Server running at http://localhost:3000
+
+Then open your browser and go to:
+http://localhost:3000
