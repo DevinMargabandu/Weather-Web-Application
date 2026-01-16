@@ -43,3 +43,9 @@ http://localhost:3000
 ## ⚠️ Notes
 - City names can be ambiguous; using City, State and CountryCode (e.g., Allen, Tx, US) improves accuracy
 - The server must be running for the front-end to fetch weather data
+
+## 🌱 Future Improvements
+- Add geolocation support
+- Add 5-day weather forecast
+- Improve error handling for invalid cities
+- Deploy application using Render or Vercel
