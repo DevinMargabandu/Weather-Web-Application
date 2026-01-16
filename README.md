@@ -49,3 +49,9 @@ http://localhost:3000
 - Add 5-day weather forecast
 - Improve error handling for invalid cities
 - Deploy application using Render or Vercel
+
+## 📄 License
+This project is for educational and personal portfolio use.
+## 👤 Author
+- Devin Margabandu
+- Software Engineering Student
