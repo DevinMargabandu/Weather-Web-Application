@@ -53,5 +53,5 @@ http://localhost:3000
 ## 📄 License
 This project is for educational and personal portfolio use.
 ## 👤 Author
-- Devin Margabandu
+- Devin Margabandu - devin.margabandu@gmail.com
 - Software Engineering Student
