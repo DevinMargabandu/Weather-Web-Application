@@ -34,3 +34,8 @@ You should see: Server running at http://localhost:3000
 
 Then open your browser and go to:
 http://localhost:3000
+
+## 🧪 Example Usage
+- Enter a city name (e.g., Allen, Tx, US)
+- Click Get Weather
+- View real-time weather data displayed on the page
