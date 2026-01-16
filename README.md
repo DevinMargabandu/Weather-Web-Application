@@ -36,6 +36,10 @@ Then open your browser and go to:
 http://localhost:3000
 
 ## 🧪 Example Usage
-- Enter a city name (e.g., Allen, Tx, US)
+- Enter a city name (e.g., Allen, US)
 - Click Get Weather
 - View real-time weather data displayed on the page
+
+## ⚠️ Notes
+- City names can be ambiguous; using City, State and CountryCode (e.g., Allen, Tx, US) improves accuracy
+- The server must be running for the front-end to fetch weather data
